@@ -13,8 +13,7 @@
 
 ## Solution
 
-### Figma Design
-https://www.figma.com/file/TO3NmgJMM1uD8vuQ70Awfh/Bookee-Assignment?type=whiteboard&node-id=0-1&t=hqlcGmYpKnhSwiAU-0
+
 
 
 ### Video Explaining Solution
